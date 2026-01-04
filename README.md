@@ -6,18 +6,18 @@ This repository contains three Jupyter Notebook files focused on **Exploratory D
 
 ## 1. EDA And Feature Engineering Of Google Play Store Dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook performs Exploratory Data Analysis and basic Feature Engineering on the **Google Play Store dataset**, which contains information about mobile applications available on the Play Store.
 
-### 🎯 Objectives
+###  Objectives
 
 * Understand the structure and quality of the dataset
 * Clean missing, incorrect, and inconsistent values
 * Analyze app categories, ratings, reviews, installs, and pricing
 * Perform feature transformations for better analysis
 
-### 🔍 Key Analysis Performed
+###  Key Analysis Performed
 
 * Handling missing values and duplicates
 * Converting data types (e.g., installs, price)
@@ -26,7 +26,7 @@ This notebook performs Exploratory Data Analysis and basic Feature Engineering o
 * Free vs Paid app comparison
 * Feature engineering for numerical analysis
 
-### 🛠 Tools & Libraries
+###  Tools & Libraries
 
 * Python
 * Pandas
@@ -37,17 +37,17 @@ This notebook performs Exploratory Data Analysis and basic Feature Engineering o
 
 ## 2. EDA flight price dataset.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook focuses on EDA of a **Flight Price dataset** to identify factors affecting airline ticket prices.
 
-### 🎯 Objectives
+###  Objectives
 
 * Analyze the relationship between flight features and ticket prices
 * Understand how airlines, routes, duration, and stops affect pricing
 * Prepare the dataset for future machine learning models
 
-### 🔍 Key Analysis Performed
+###  Key Analysis Performed
 
 * Data cleaning and preprocessing
 * Date and time feature extraction (journey date, departure, arrival)
@@ -55,7 +55,7 @@ This notebook focuses on EDA of a **Flight Price dataset** to identify factors a
 * Price distribution and trend analysis
 * Outlier detection and handling
 
-### 🛠 Tools & Libraries
+###  Tools & Libraries
 
 * Python
 * Pandas
@@ -66,17 +66,17 @@ This notebook focuses on EDA of a **Flight Price dataset** to identify factors a
 
 ## 3. red wine dataset EDA.ipynb
 
-### 📌 Description
+###  Description
 
 This notebook performs Exploratory Data Analysis on the **Red Wine Quality dataset**, which contains physicochemical properties of red wine samples.
 
-### 🎯 Objectives
+###  Objectives
 
 * Understand the relationship between chemical properties and wine quality
 * Identify important features affecting wine quality
 * Visualize correlations among variables
 
-### 🔍 Key Analysis Performed
+###  Key Analysis Performed
 
 * Statistical summary of features
 * Correlation analysis
@@ -84,7 +84,7 @@ This notebook performs Exploratory Data Analysis on the **Red Wine Quality datas
 * Quality-based comparison
 * Visualization using plots and heatmaps
 
-### 🛠 Tools & Libraries
+###  Tools & Libraries
 
 * Python
 * Pandas
@@ -93,7 +93,7 @@ This notebook performs Exploratory Data Analysis on the **Red Wine Quality datas
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 These notebooks demonstrate practical EDA techniques on real-world datasets. They are useful for:
 
